@@ -1,0 +1,395 @@
+# Pixelmator
+
+
+# Short Cuts
+
+
+### Duplicate Image
+
+<cb>Command ⌘ + Shift + S<>
+
+
+
+### Duplicate Selection
+
+<cb>Command ⌘ + Shift + D<>
+
+
+
+### Select Brush
+
+<cb>B<>
+
+
+
+### Show / Hide Tools
+
+<cb>Command ⌘ + 1<>
+
+
+
+### Show / Hide Layers
+
+<cb>Command ⌘ + 2<>
+
+
+
+### Show / Effects Browser
+
+<cb>Command ⌘ + 3<>
+
+
+
+### Show / Hide Brushes
+
+<cb>Command ⌘ + 4<>
+
+
+
+### Zoom Actual Size
+
+<cb>Command ⌘ + Option ⌥ + 0<>
+
+
+
+### Zoom In / Out
+
+In
+
+<cb>Command ⌘ +<>
+
+Out
+
+<cb>Command ⌘ -<>
+
+
+
+# How To
+
+
+
+### Background
+
+Make Transparent
+- Delete Background
+- Create New Layer
+- Make Background (should be transparent by default)
+
+
+
+### Brush - Settings
+
+Open Brush Styles:
+
+<cb>Command ⌘ + 4<>
+
+Or:
+
+<card>Menu:
+-> View
+-> Show Brushes<>
+
+
+
+### Brush - Set Size (Quick)
+
+On Canvas:
+
+<Card>Right Click
+-> Size Dialog Will Show<>
+
+
+
+### Colour - Change
+
+Menu: Image -> Color Adjustment...
+Drag "Replace Color" onto image...
+Finish in Dialog
+
+-or- 
+
+Effects Browser:
+Color Adjustments ->Replace Color
+
+Drag onto color on picture.
+Select colour on picture you want to replace.
+Select radius to set range of similar colours to change.
+Select colour on colour slider to pick new color.
+
+
+
+### Draw - Straight Line
+
+<cb>Shift + Mouse<>
+
+Select Canvas
+Select Brush Tool (B)
+Hold Shift + Drag Line
+
+Moves vertically or horizontally only.
+
+
+
+### Edit - Paste To New Image
+
+<card>Menu:
+
+-> File
+-> New
+
+Select "Clipboard"<>
+
+
+Creates a new image from the image stored in the clipboard.
+@
+@ from clipboard
+
+
+
+### Fill - Matching Color
+
+Select Paint Bucket Tool (Paint can icon)
+Select colour on top.
+Click on part to fill.
+Drag cursor to increase fill color matching.
+
+
+
+### Image - Colors - Invert
+
+<card>Menu:
+-> Format
+-> Color Adjustment
+-> Invert<>
+@
+@ colours
+
+
+
+### Image - Duplicate
+
+<cb>Command ⌘ + Shift + S<>
+
+Or
+
+<card>Menu:
+-> File
+-> Duplicate<>
+
+
+
+### Image - Effect
+
+<m>Confirm this. Doesn't seem to be true anymore.<>
+
+Open Effects Browser (Below)
+Select Effect Type
+Drag onto image
+	Settings box will appear.
+Change as desired.
+
+
+
+### Image - Effect - Blur
+
+<m>Confirm this. Doesn't seem to be true anymore.<>
+
+Open Effects Browser
+
+Select "Blur"
+
+Double click on blur type.
+	Dialog will pop up.
+
+
+
+<m>Option:<>
+
+Menu:
+
+<cb>Format
+-> Effects
+-> <v>...<><>
+@
+@ Soyften
+
+
+
+### Image - Flip Horizontally, Vertically
+
+<card>Menu:
+
+-> Image
+-> Rotate
+-> Flip Vertically  |  Flip Horizontally<>
+@
+@ mirror, reverse
+
+
+
+### Image - Resize On Page
+
+Menu: Transform Tool
+	Boundary appears.
+Drag corner of boundary in or out to resize.
+
+
+
+### Image - Rotate
+
+<card>Menu:
+
+-> Image
+-> Rotate
+-> Rotate 180˚  |  Rotate 90˚ Left  |  Rotate 90˚ Right<>
+@
+@ 180, 90, clockwise, counter-clockwise
+
+
+
+### Image - Rotate On Page
+
+Menu:
+
+-> Edit
+-> Transform
+
+	Boundary appears.
+	
+Place cursor outside boundary.
+
+	Cursor turns into rotate cursor.
+
+Click move up or down to rotate the image.
+
+
+
+### Layer - Add Drop Shadow
+
+Select Layer
+Select Style Tool
+Enable 'Shadow'
+Adjust Settings
+
+
+
+### Layer - Flip Horizontally, Vertically
+
+<card>Menu:
+
+-> Arrange
+-> Flip Vertically  |  Flip Horizontally<>
+@
+@ mirror, reverse
+
+
+
+### Layer - Group Layers Under New Layer
+
+Select Layers
+Right Click Menu
+-> "Group"
+
+Items will be grouped under new layer.
+
+
+
+### Layer - Rotate
+
+<card>Menu:
+
+-> Arrange
+-> Rotate 180˚  |  Rotate 90˚ Left  |  Rotate 90˚ Right<>
+@
+@ 180, 90, clockwise, counter-clockwise
+
+
+
+### Selection - Crop
+
+Menu:
+-> Tools
+-> Crop
+
+
+
+### Selection - Flip Horizontally, Vertically
+
+<card>Menu:
+
+-> Arrange
+-> Flip Vertically  |  Flip Horizontally<>
+@
+@ mirror, reverse
+
+
+
+### Selection - Resize
+
+Menu: Transform Tool
+
+
+
+### Selection - Rotate
+
+<card>Menu:
+
+-> Arrange
+-> Rotate 180˚  |  Rotate 90˚ Left  |  Rotate 90˚ Right<>
+@
+@ 180, 90, clockwise, counter-clockwise
+
+
+
+### Selection - Rotate On Page
+
+Open Transform Tool
+
+<cb>Command ⌘ + F<>
+
+Rotate with mouse.
+
+
+
+### Shape - Change Points
+
+<cb>Double Click Shape<>
+
+(points should turn round with red outline)
+
+Move With Cursor.
+
+Unselect:
+
+<cb>Click Off Shape<>
+
+
+
+### Shape - Fill
+
+Use The Styles Palette (Painbrush Tool)
+@
+@ object
+
+
+
+### View - Effects Browser
+
+<m>Confirm. Doesn't seem to apply anymore:<>
+
+Menu:
+
+<card>View ->
+Show Effects<>
+
+<m>Option:<>
+
+Menu:
+
+<cb>Format
+-> Effects
+-> <v>...<><>
+
+
+
+
