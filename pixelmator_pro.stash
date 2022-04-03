@@ -19,6 +19,16 @@
 ### Select Brush
 
 <cb>B<>
+@
+@ tool
+
+
+
+### Select Quick Selection
+
+<cb>q<>
+@
+@ tool
 
 
 
@@ -302,6 +312,20 @@ Items will be grouped under new layer.
 -> Rotate 180˚  |  Rotate 90˚ Left  |  Rotate 90˚ Right<>
 @
 @ 180, 90, clockwise, counter-clockwise
+
+
+
+### Select - Item
+
+<*>Select Quick Selection Tool
+Click Item<>
+
+Select Quick Selection Tool:
+
+<card>Menu:
+
+-> Tools
+-> Quick Selection<>
 
 
 
