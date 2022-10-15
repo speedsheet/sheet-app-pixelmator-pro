@@ -317,6 +317,30 @@ Items will be grouped under new layer.
 
 
 
+### Line - Curved - Create
+
+Use the Pen Tool
+
+<image "Tool - Pen.jpg">
+
+<*>Go Point by Point
+Click and Hold Point
+Drag to Create Curve Handle
+Repeat for Each Point
+Escape to Exit!<>
+@
+@ arc, object
+
+
+
+### Line - Curved - Edit
+
+Double Click to See Anchor Points
+@
+@ arc, object
+
+
+
 ### Select - Item
 
 <*>Select Quick Selection Tool
