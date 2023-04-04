@@ -341,6 +341,38 @@ Double Click to See Anchor Points
 
 
 
+### Mask - Layer Mask - Create 100% Visible
+
+On Layers:
+
+<card>Right click Layer
+Select: Add Mask<>
+
+
+Creates white / 100% visible mask.
+
+
+
+### Mask - Layer Mask - Create 100% Blocked
+
+On Layers:
+
+<card>Right click Layer
+Select: Option + Add Mask<>
+
+Creates black / 100% blocking mask.
+
+
+
+### Mask - Layer Mask - Invert
+
+On Layers:
+
+<cb>Right Click Mask
+Select: Invert Colors
+
+
+
 ### Select - Item
 
 <*>Select Quick Selection Tool
@@ -440,6 +472,21 @@ Menu:
 -> Effects
 -> <v>...<><>
 
+
+
+
+# Official Documents
+@
+@ help
+
+
+### Layer Masks, Clipping Mask
+
+Docs:
+<l>https://www.pixelmator.com/support/guide/pixelmator-pro/1156/<>
+
+Video:
+<l>https://www.youtube.com/watch?v=heFkzzHWoqY<>
 
 
 
